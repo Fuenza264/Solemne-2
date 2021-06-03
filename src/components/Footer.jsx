@@ -5,7 +5,7 @@ function Footer(){
     return (
         
         <footer>
-            <p>© 2020 Hernán López . Todos los derechos reservados.</p>
+            © 2020 Hernán López . Todos los derechos reservados.
         </footer>
        
         

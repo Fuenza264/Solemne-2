@@ -19,7 +19,9 @@ function Article2(){
             <Navbar links={datosbarra}/>
             <Logo/>
             <h1>Principio de presunción de inocencia, un desafío en tiempos de redes sociales</h1>
+            <div class="noticias">
             <img src={noticia2} width='500'/>
+            </div>
             <h2>Realmente es aplicable la presunción de inocencia en tiempos de redes sociales, pandemia y cibercrimen? Un análisis de Chile, España e Italia.</h2>
             <p>by Hernán López</p>
             <p>En términos generales, entendemos la acción penal, como el ejercicio jurídico procesal que realiza la víctima, cuando ha resultado lesionada jurídicamente. En la legislación española, de “todo delito o falta nace acción penal para el castigo del culpable, y puede nacer también acción civil para la restitución de la cosa, la reparación del daño y la indemnización de perjuicios causados por el hecho punible”[1]. Estas acciones han de ser entendidas como manifestaciones del legítimo ejercicio del derecho a la tutela judicial efectiva. Este derecho por cierto que incluye el libre acceso a la representación letrada, en Chile institucionalizado por el Ministerio Público (ente persecutor) y la Defensoría Penal Pública (defensor).[2]

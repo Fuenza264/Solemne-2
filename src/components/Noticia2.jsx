@@ -4,7 +4,7 @@ import noticia2 from '../photos/noticia2.png';
 
 function Noticia2(){
     return (
-        <div>
+        <div class="noticias">
             <Link to='/Article2'>
                 <img src={noticia2} width='500'/>
             </Link>
